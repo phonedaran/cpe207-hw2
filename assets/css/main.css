@@ -189,7 +189,7 @@ input[type="radio"]{
 	}
 
 		a:hover {
-			color: #E27689;
+			color: rgb(255, 55, 91);
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -275,12 +275,13 @@ input[type="radio"]{
 /* Portfolio */
 
 	.portfolio {
-		border: 3px solid #088DA5;
+		border: 6px solid #A4A698;
+		border-radius: 10px; 
 		text-align:left;
 	}
 
 		.portfolio > .rowPort-1 {
-			background-color:  rgb(119, 187, 204);
+			background-color:  #F2F2DF;
 			padding-left: 15px;
 		}
 
@@ -298,7 +299,7 @@ input[type="radio"]{
 			}
 		
 		.portfolio > .rowPort-2 {
-			background-color:  rgb(199, 218, 238);
+			background-color:  #D8D9C7;
 			padding-left: 15px;
 		}
 
